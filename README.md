@@ -17,31 +17,44 @@ Aplikasi ini dibuat menggunakan Python dan PySide6 untuk mengelola data post dar
 - PySide6 (GUI)
 - Requests (HTTP Client)
 
+## Struktur Project
+
+- post_manager.py → file utama aplikasi
+- README.md → dokumentasi
+- screenshots/ → berisi gambar hasil aplikasi
+
 ## Screenshot
 
 ### Load Data
 ![Load Data](screenshots/Load-Data.jpeg)
 
 ### Tambah Data
-![Tambah Data](screenshots/tambah-data.png)
+![Tambah Data](screenshots/Form-tambah-data.jpeg)
 
 ### Detail Post
-![Detail Post](screenshots/detail-post.png)
+![Detail Post](screenshots/Detail-post.jpeg)
 
 ### Detail Post dengan Komentar
-![Detail Komentar](screenshots/detail-post-dengan-komentar.png)
+![Detail Komentar](screenshots/Detail-post-dengan-komentar.jpeg)
 
 ### Edit Data
-![Edit Data](screenshots/edit-data.png)
+![Edit Data](screenshots/Edit-data.jpeg)
 
 ### Hapus Data
-![Hapus Data](screenshots/hapus-data.png)
+![Hapus Data](screenshots/Hapus-data.jpeg)
 
 ### State Loading
-![Loading](screenshots/state-loading.png)
+![Loading](screenshots/State-loading.jpeg)
 
 ### State Selesai
-![Selesai](screenshots/state-selesai.png)
+![Selesai](screenshots/State-selesai.jpeg)
 
 ## Cara Menjalankan
-1. Aktifkan virtual environment:
+1. Aktifkan virtual environment: venv\Scripts\activate
+2. Install dependencies: pip install requests PySide6
+3. Jalankan program: python post_manager.py
+
+## Author
+- Nama: Deswita Salsabila
+- NIM: F1D02410004
+- Kelas: B
