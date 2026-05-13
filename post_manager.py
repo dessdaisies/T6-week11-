@@ -1,6 +1,6 @@
 # Nama: Deswita Salsabila
 # NIM: F1D02410004
-# Kelas: B
+# Kelas: C
 
 import sys
 import requests

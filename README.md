@@ -57,4 +57,4 @@ Aplikasi ini dibuat menggunakan Python dan PySide6 untuk mengelola data post dar
 ## Author
 - Nama: Deswita Salsabila
 - NIM: F1D02410004
-- Kelas: B
+- Kelas: C
